@@ -1,12 +1,18 @@
 ## Hello you :tada:
 
+
 <a href="https://www.linkedin.com/in/evann-regnault/">
   <img align="left" alt="Evann Regnault's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href='https://ko-fi.com/U7U46ENTC' target='_blank'><img width='26px' src='https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/kofi.svg' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/U7U46ENTC' target='_blank'>
+  <img align="left" width='26px' src='https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/kofi.svg' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Estyms.Estyms)
+<a>
+  <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=Estyms.Estyms">
+</a>
+<p/><br/>
 
 Hey, I'm [Evann Regnault](https://evannregnault.dev/) AkA [Estym](https://github.com/Estyms/), a self-taught software engineer from France !<br/> I currently am studying Computer Science in Strasbourg.
 
