@@ -1,4 +1,4 @@
-### Hello you 👋
+## Hello you :tada:
 
 <a href="https://www.linkedin.com/in/evann-regnault/">
   <img align="left" alt="Evann Regnault's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -12,9 +12,13 @@ Hey, I'm [Evann Regnault](https://evannregnault.dev/) AkA [Estym](https://github
 
 You might also know me for the Discord Bot [Drunk Venti](https://top.gg/bot/860120094633623552) !
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estyms&theme=vue-dark&layout=compact"></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Estyms&theme=vue-dark"></p>
+## :mag: Github Stats
 
+<p float="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Estyms&theme=vue-dark&hide=issues" height=150px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estyms&theme=vue-dark&layout=compact" height=150px>
+  
+</p>
 
 
 <!--
