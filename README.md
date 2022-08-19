@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://sr.ht/~estym">
-  <img align="left" alt="Evann Regnault's SourceHut" width="22px" src="https://sourcehut.org/sourcehut-white-text.svg" />
+  <img align="left" alt="Evann Regnault's SourceHut" height="22px" src="https://sourcehut.org/sourcehut-white-text.svg" />
 </a>
 
 
