@@ -5,9 +5,10 @@
   <img align="left" alt="Evann Regnault's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href='https://ko-fi.com/U7U46ENTC' target='_blank'>
-  <img align="left" width='26px' src='https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/kofi.svg' alt='Buy Me a Coffee at ko-fi.com' />
+<a href="https://sr.ht/~estym">
+  <img align="left" alt="Evann Regnault's SourceHut" width="22px" src="https://sourcehut.org/sourcehut-white-text.svg" />
 </a>
+
 
 <a>
   <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=Estyms.Estyms">
