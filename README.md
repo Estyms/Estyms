@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/evann-regnault/">
-  <img align="left" alt="Evann Regnault's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Evann Regnault's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://sr.ht/~estym">
@@ -17,7 +17,7 @@
 
 Hey, I'm [Evann Regnault](https://evannregnault.dev/) AkA [Estym](https://github.com/Estyms/), a self-taught software engineer from France !<br/> I currently am studying Computer Science in Strasbourg.
 
-You might also know me for the Discord Bot [Drunk Venti](https://top.gg/bot/860120094633623552) !
+You might also know me for the Discord Bot [Drunk Venti](https://top.gg/bot/860120094633623552) or [Obsessed Yanqing](https://top.gg/bot/1102391056961638470/edit) !
 
 ## :mag: Github Stats
 
