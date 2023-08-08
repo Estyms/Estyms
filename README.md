@@ -17,7 +17,7 @@
 
 Hey, I'm [Evann Regnault](https://evannregnault.dev/) AkA [Estym](https://github.com/Estyms/), a self-taught software engineer from France !<br/> I currently am studying Computer Science in Strasbourg.
 
-You might also know me for the Discord Bot [Drunk Venti](https://top.gg/bot/860120094633623552) or [Obsessed Yanqing](https://top.gg/bot/1102391056961638470/edit) !
+You might also know me for the Discord Bot [Drunk Venti](https://top.gg/bot/860120094633623552) or [Obsessed Yanqing](https://top.gg/bot/1102391056961638470) !
 
 ## :mag: Github Stats
 
